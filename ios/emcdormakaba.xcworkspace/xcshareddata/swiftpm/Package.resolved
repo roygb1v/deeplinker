@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AppsFlyerLib",
+        "repositoryURL": "https://github.com/AppsFlyerSDK/AppsFlyerFramework",
+        "state": {
+          "branch": null,
+          "revision": "9ecb1579f4860192850d2363dac1642aef2f25d1",
+          "version": "6.3.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
